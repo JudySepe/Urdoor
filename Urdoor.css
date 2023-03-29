@@ -1,0 +1,18 @@
+h1 {
+    width: 500px;
+    font-size: 40px;
+   color:dimgrey;
+    text-align: center;
+    border: 5px solid;
+    margin: 0px;
+    padding: 10px;
+   }
+   h2 {
+    text-align:left;
+    color: darkolivegreen;
+    font-size:40px ;
+   }
+   h3 {
+    font-size: 15px;
+    
+   }
